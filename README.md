@@ -17,6 +17,16 @@ A Python-based **Digital Communication Simulator** that demonstrates
 - Matplotlib
 - Streamlit
 
+## Screenshots
+
+![Screenshot 1](https://github.com/Shivam1902-tech/digital-communication-simulator/blob/main/Screenshots/screen1.png)
+
+![Screenshot 2](https://github.com/Shivam1902-tech/digital-communication-simulator/blob/main/Screenshots/screen2.png)
+
+![Screenshot 3](https://github.com/Shivam1902-tech/digital-communication-simulator/blob/main/Screenshots/screen3.png)
+
+![Screenshot 4](https://github.com/Shivam1902-tech/digital-communication-simulator/blob/main/Screenshots/screen4.png)
+
 ## ▶️ How to Run
 ```bash
 pip install -r requirements.txt
